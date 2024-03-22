@@ -52,20 +52,21 @@ const Contenet = () => {
       <div className="sSection">
         <div>
      
-           <iframe
-        title="YouTube Video"
-        width="100%"
-        height="400px"
-        src="https://youtu.be/CGJcerJzcVE"
-        frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        autoPlay
+        <iframe
+    title="YouTube Video"
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/CGJcerJzcVE?autoplay=1"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+
+
              
              controls
         
             
-      ></iframe>
+      </iframe>
         </div>
       </div>
     </dvi>
